@@ -1,0 +1,19 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data & Models 
+data/
+models/*.pt
+models/*.pkl
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
